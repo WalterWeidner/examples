@@ -1,0 +1,7 @@
+{
+  "name": "@fabric/dropdown",
+  "version": "1.0.0",
+  "dependencies": {
+    "@fabric/menu": "^1.0.0"
+  }
+}
