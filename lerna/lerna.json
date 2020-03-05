@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "registry": "https://packagecloud.io/wweidner/lerna/npm/"
+}

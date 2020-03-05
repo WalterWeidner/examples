@@ -1,0 +1,12 @@
+{
+  "name": "select",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "menu": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

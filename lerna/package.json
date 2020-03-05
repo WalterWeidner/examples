@@ -1,0 +1,13 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lerna": "^3.20.2"
+  },
+  "scripts": {
+	"lerna": "lerna",
+	"start": "lerna run start"
+  }
+}
